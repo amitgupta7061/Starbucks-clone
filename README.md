@@ -79,7 +79,7 @@ This project is licensed under the MIT License.
 
 💚 Starbucks Clone – Made with ☕ and ❤️ by [Amit Gupta]
 ## 🛠 Skills
-React, HTML, Tailwind
+React.js, HTML, CSS, JavaScript, React Router, Responsive Design.
 
 
 ## Screenshots
